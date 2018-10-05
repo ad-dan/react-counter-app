@@ -1,4 +1,4 @@
-# React Counter App
+# ⚛️ React Counter App
 
 A counter app made using **ReactJS**.
 The UI was built using **Material-UI** and **FontAwesome**.
